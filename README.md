@@ -29,6 +29,7 @@ English documents are the **authoritative** versions. Ukrainian translations (`.
 | [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | Expected behavior, educational environment, reporting, and maintainer responsibilities for a welcoming community. |
 | [BRAND_GUIDELINES.md](BRAND_GUIDELINES.md) | Correct use of names, logos, and visual identity in educational, community, and commercial contexts. |
 | [TRADEMARK.md](TRADEMARK.md) | Trademark policy: allowed and prohibited uses, forks, logo rules, and how open licenses relate to branding. |
+| [LICENSE](LICENSE) | Canonical licensing policy: which license applies to software, hardware, and documentation across the ecosystem. |
 
 ### Ukrainian translations
 
@@ -54,17 +55,11 @@ Individual project repositories may add their own `CONTRIBUTING.md`, issue templ
 
 ---
 
-## Licensing (summary)
+## Licensing
 
-Licensing varies by component across the ecosystem. Typical licenses:
+Organization-wide licensing rules are in **[LICENSE](LICENSE)** (MIT for software, CERN-OHL-S v2 for hardware, CC BY-SA 4.0 for documentation). Individual repositories may also include their own `LICENSE` file.
 
-| Component | License |
-| --------- | ------- |
-| Software and firmware | MIT |
-| Hardware and PCB designs | CERN-OHL-S v2 |
-| Documentation and lessons | CC BY-SA 4.0 |
-
-See each repository’s `LICENSE` file for specifics. Use of **ByByte.DIY™** names and logos is governed by [TRADEMARK.md](TRADEMARK.md) and [BRAND_GUIDELINES.md](BRAND_GUIDELINES.md), independent of open-source code licenses.
+Use of **ByByte.DIY™** names and logos is governed by [TRADEMARK.md](TRADEMARK.md) and [BRAND_GUIDELINES.md](BRAND_GUIDELINES.md), independent of open-source licenses.
 
 ---
 

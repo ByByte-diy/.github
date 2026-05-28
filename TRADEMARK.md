@@ -167,17 +167,7 @@ Only projects, products, services, and organizations explicitly approved by the 
 
 # License References
 
-Different parts of the ByByte ecosystem may use different licenses.
-
-Typical licensing structure:
-
-| Component                 | License       |
-| ------------------------- | ------------- |
-| Software and firmware     | MIT License   |
-| Hardware and PCB designs  | CERN-OHL-S v2 |
-| Documentation and lessons | CC BY-SA 4.0  |
-
-Please refer to the LICENSE files of individual repositories for details.
+Different parts of the ByByte ecosystem may use different licenses. The canonical policy is in **[LICENSE](LICENSE)**. Please also refer to the `LICENSE` files of individual repositories for details.
 
 ---
 

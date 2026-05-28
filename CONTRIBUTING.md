@@ -215,15 +215,7 @@ Avoid fully automated translations without review.
 
 By contributing to the project, you agree that your contributions will be distributed under the license used by the corresponding repository.
 
-Typical licensing structure:
-
-| Component                 | License       |
-| ------------------------- | ------------- |
-| Software and firmware     | MIT License   |
-| Hardware and PCB designs  | CERN-OHL-S v2 |
-| Documentation and lessons | CC BY-SA 4.0  |
-
-Please review repository LICENSE files for details.
+See **[LICENSE](LICENSE)** for the canonical license-by-component policy (MIT, CERN-OHL-S v2, CC BY-SA 4.0). Please also review the `LICENSE` file in each repository for details.
 
 ---
 
