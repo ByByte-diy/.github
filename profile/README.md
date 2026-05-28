@@ -1,7 +1,5 @@
 # ByByte.DIY™
 
-<img src="../img/logo.png" alt="ByByte.DIY logo" width="200">
-
 ### Open Robotics & STEM Education Ecosystem
 
 ByByte.DIY™ is an open-source ecosystem for robotics, electronics, and STEM education.
@@ -68,7 +66,7 @@ Please read:
 
 ## Licensing
 
-Licensing rules for the ecosystem are defined in [`LICENSE`](../LICENSE) (software, hardware, and documentation).
+Licensing rules for the ecosystem are defined in [`LICENSE`](../LICENSE.md) (software, hardware, and documentation).
 
 ---
 

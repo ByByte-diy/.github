@@ -215,7 +215,7 @@ Avoid fully automated translations without review.
 
 By contributing to the project, you agree that your contributions will be distributed under the license used by the corresponding repository.
 
-See **[LICENSE](LICENSE)** for the canonical license-by-component policy (MIT, CERN-OHL-S v2, CC BY-SA 4.0). Please also review the `LICENSE` file in each repository for details.
+See **[LICENSE](LICENSE.md)** for the canonical license-by-component policy (MIT, CERN-OHL-S v2, CC BY-SA 4.0). Please also review the `LICENSE` file in each repository for details.
 
 ---
 

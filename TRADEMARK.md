@@ -167,7 +167,7 @@ Only projects, products, services, and organizations explicitly approved by the 
 
 # License References
 
-Different parts of the ByByte ecosystem may use different licenses. The canonical policy is in **[LICENSE](LICENSE)**. Please also refer to the `LICENSE` files of individual repositories for details.
+Different parts of the ByByte ecosystem may use different licenses. The canonical policy is in **[LICENSE](LICENSE.md)**. Please also refer to the `LICENSE` files of individual repositories for details.
 
 ---
 
