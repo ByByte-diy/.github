@@ -197,7 +197,7 @@ ByByte.DIY створений для підтримки:
 
 ByByte.DIY™ та пов’язані логотипи є торговими марками команди підтримки проекту.
 
-Використання торгових марок повинно відповідати політиці [TRADEMARK.uk.md](TRADEMARK.uk.md).
+Використання торгових марок повинно відповідати політиці [TRADEMARK.uk.md](https://github.com/ByByte-diy/.github/blob/main/TRADEMARK.uk.md).
 
 ---
 

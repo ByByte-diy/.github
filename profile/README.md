@@ -58,15 +58,15 @@ We welcome contributions in:
 
 Please read:
 
-* [`CONTRIBUTING.md`](../CONTRIBUTING.md)
-* [`CODE_OF_CONDUCT.md`](../CODE_OF_CONDUCT.md)
-* [`TRADEMARK.md`](../TRADEMARK.md)
+* [`CONTRIBUTING.md`](https://github.com/ByByte-diy/.github/blob/main/CONTRIBUTING.md)
+* [`CODE_OF_CONDUCT.md`](https://github.com/ByByte-diy/.github/blob/main/CODE_OF_CONDUCT.md)
+* [`TRADEMARK.md`](https://github.com/ByByte-diy/.github/blob/main/TRADEMARK.md)
 
 ---
 
 ## Licensing
 
-Licensing rules for the ecosystem are defined in [`LICENSE`](../LICENSE.md) (software, hardware, and documentation).
+Licensing rules for the ecosystem are defined in [`LICENSE`](https://github.com/ByByte-diy/.github/blob/main/LICENSE.md) (software, hardware, and documentation).
 
 ---
 

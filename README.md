@@ -14,7 +14,7 @@ Our work is guided by openness, accessibility, and **learning by creating** — 
 
 **Core platforms:** ByByte Nano™, ByByte Mega™, ByByte NanoBoy™
 
-For the full mission statement, see [MISSION.md](MISSION.md).
+For the full mission statement, see [MISSION.md](https://github.com/ByByte-diy/.github/blob/main/MISSION.md).
 
 ---
 
@@ -24,20 +24,20 @@ English documents are the **authoritative** versions. Ukrainian translations (`.
 
 | Document | Description |
 | -------- | ----------- |
-| [MISSION.md](MISSION.md) | Why ByByte.DIY exists — open STEM education, DIY culture, and our vision for the next generation of creators. |
-| [CONTRIBUTING.md](CONTRIBUTING.md) | How to contribute: areas of work, pull request expectations, quality standards, licensing, and community norms. |
-| [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | Expected behavior, educational environment, reporting, and maintainer responsibilities for a welcoming community. |
-| [BRAND_GUIDELINES.md](BRAND_GUIDELINES.md) | Correct use of names, logos, and visual identity in educational, community, and commercial contexts. |
-| [TRADEMARK.md](TRADEMARK.md) | Trademark policy: allowed and prohibited uses, forks, logo rules, and how open licenses relate to branding. |
-| [LICENSE](LICENSE.md) | Canonical licensing policy: which license applies to software, hardware, and documentation across the ecosystem. |
+| [MISSION.md](https://github.com/ByByte-diy/.github/blob/main/MISSION.md) | Why ByByte.DIY exists — open STEM education, DIY culture, and our vision for the next generation of creators. |
+| [CONTRIBUTING.md](https://github.com/ByByte-diy/.github/blob/main/CONTRIBUTING.md) | How to contribute: areas of work, pull request expectations, quality standards, licensing, and community norms. |
+| [CODE_OF_CONDUCT.md](https://github.com/ByByte-diy/.github/blob/main/CODE_OF_CONDUCT.md) | Expected behavior, educational environment, reporting, and maintainer responsibilities for a welcoming community. |
+| [BRAND_GUIDELINES.md](https://github.com/ByByte-diy/.github/blob/main/BRAND_GUIDELINES.md) | Correct use of names, logos, and visual identity in educational, community, and commercial contexts. |
+| [TRADEMARK.md](https://github.com/ByByte-diy/.github/blob/main/TRADEMARK.md) | Trademark policy: allowed and prohibited uses, forks, logo rules, and how open licenses relate to branding. |
+| [LICENSE](https://github.com/ByByte-diy/.github/blob/main/LICENSE.md) | Canonical licensing policy: which license applies to software, hardware, and documentation across the ecosystem. |
 
 ### Ukrainian translations
 
 | Document | English source |
 | -------- | -------------- |
-| [MISSION.uk.md](MISSION.uk.md) | [MISSION.md](MISSION.md) |
-| [CODE_OF_CONDUCT.uk.md](CODE_OF_CONDUCT.uk.md) | [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) |
-| [TRADEMARK.uk.md](TRADEMARK.uk.md) | [TRADEMARK.md](TRADEMARK.md) |
+| [MISSION.uk.md](https://github.com/ByByte-diy/.github/blob/main/MISSION.uk.md) | [MISSION.md](https://github.com/ByByte-diy/.github/blob/main/MISSION.md) |
+| [CODE_OF_CONDUCT.uk.md](https://github.com/ByByte-diy/.github/blob/main/CODE_OF_CONDUCT.uk.md) | [CODE_OF_CONDUCT.md](https://github.com/ByByte-diy/.github/blob/main/CODE_OF_CONDUCT.md) |
+| [TRADEMARK.uk.md](https://github.com/ByByte-diy/.github/blob/main/TRADEMARK.uk.md) | [TRADEMARK.md](https://github.com/ByByte-diy/.github/blob/main/TRADEMARK.md) |
 
 If translations differ from the English text, the **English version prevails**.
 
@@ -57,23 +57,23 @@ Individual project repositories may add their own `CONTRIBUTING.md`, issue templ
 
 ## Licensing
 
-Organization-wide licensing rules are in **[LICENSE](LICENSE.md)** (MIT for software, CERN-OHL-S v2 for hardware, CC BY-SA 4.0 for documentation). Individual repositories may also include their own `LICENSE` file.
+Organization-wide licensing rules are in **[LICENSE](https://github.com/ByByte-diy/.github/blob/main/LICENSE.md)** (MIT for software, CERN-OHL-S v2 for hardware, CC BY-SA 4.0 for documentation). Individual repositories may also include their own `LICENSE` file.
 
-Use of **ByByte.DIY™** names and logos is governed by [TRADEMARK.md](TRADEMARK.md) and [BRAND_GUIDELINES.md](BRAND_GUIDELINES.md), independent of open-source licenses.
+Use of **ByByte.DIY™** names and logos is governed by [TRADEMARK.md](https://github.com/ByByte-diy/.github/blob/main/TRADEMARK.md) and [BRAND_GUIDELINES.md](https://github.com/ByByte-diy/.github/blob/main/BRAND_GUIDELINES.md), independent of open-source licenses.
 
 ---
 
 ## Get involved
 
-1. Read [MISSION.md](MISSION.md) and [CONTRIBUTING.md](CONTRIBUTING.md).
-2. Follow [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) in all interactions.
-3. Respect [BRAND_GUIDELINES.md](BRAND_GUIDELINES.md) and [TRADEMARK.md](TRADEMARK.md) when naming or branding work.
+1. Read [MISSION.md](https://github.com/ByByte-diy/.github/blob/main/MISSION.md) and [CONTRIBUTING.md](https://github.com/ByByte-diy/.github/blob/main/CONTRIBUTING.md).
+2. Follow [CODE_OF_CONDUCT.md](https://github.com/ByByte-diy/.github/blob/main/CODE_OF_CONDUCT.md) in all interactions.
+3. Respect [BRAND_GUIDELINES.md](https://github.com/ByByte-diy/.github/blob/main/BRAND_GUIDELINES.md) and [TRADEMARK.md](https://github.com/ByByte-diy/.github/blob/main/TRADEMARK.md) when naming or branding work.
 4. Open issues and pull requests in the relevant project repository, or start a discussion for larger changes.
 
-Questions about branding, partnerships, certification, or trademark use: contact the **project maintainers** (see [BRAND_GUIDELINES.md](BRAND_GUIDELINES.md#contact)).
+Questions about branding, partnerships, certification, or trademark use: contact the **project maintainers** (see [BRAND_GUIDELINES.md](https://github.com/ByByte-diy/.github/blob/main/BRAND_GUIDELINES.md#contact)).
 
 ---
 
 ## Trademark notice
 
-ByByte.DIY™, ByByte Nano™, ByByte Mega™, ByByte NanoBoy™, and associated logos are trademarks of the ByByte.DIY project maintainers. See [TRADEMARK.md](TRADEMARK.md) for permitted use.
+ByByte.DIY™, ByByte Nano™, ByByte Mega™, ByByte NanoBoy™, and associated logos are trademarks of the ByByte.DIY project maintainers. See [TRADEMARK.md](https://github.com/ByByte-diy/.github/blob/main/TRADEMARK.md) for permitted use.

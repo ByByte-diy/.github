@@ -230,7 +230,7 @@ The goal is to grow a healthy ecosystem where knowledge and engineering skills a
 
 ByByte.DIY™, ByByte Nano™, ByByte Mega™,  ByByte    NanoBoy™ and associated logos are trademarks of the ByByte.DIY project maintainers.
 
-Use of the trademarks must comply with the [TRADEMARK.md](TRADEMARK.md) policy.
+Use of the trademarks must comply with the [TRADEMARK.md](https://github.com/ByByte-diy/.github/blob/main/TRADEMARK.md) policy.
 
 ---
 

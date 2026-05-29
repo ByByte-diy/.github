@@ -185,7 +185,7 @@ This Code of Conduct applies to:
 
 ByByte.DIY™ and associated logos are trademarks of the project maintainers.
 
-Use of the trademarks must comply with the [TRADEMARK.md](TRADEMARK.md) policy.
+Use of the trademarks must comply with the [TRADEMARK.md](https://github.com/ByByte-diy/.github/blob/main/TRADEMARK.md) policy.
 
 ---
 

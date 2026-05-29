@@ -215,7 +215,7 @@ Avoid fully automated translations without review.
 
 By contributing to the project, you agree that your contributions will be distributed under the license used by the corresponding repository.
 
-See **[LICENSE](LICENSE.md)** for the canonical license-by-component policy (MIT, CERN-OHL-S v2, CC BY-SA 4.0). Please also review the `LICENSE` file in each repository for details.
+See **[LICENSE](https://github.com/ByByte-diy/.github/blob/main/LICENSE.md)** for the canonical license-by-component policy (MIT, CERN-OHL-S v2, CC BY-SA 4.0). Please also review the `LICENSE` file in each repository for details.
 
 ---
 
@@ -225,13 +225,13 @@ Contributors are expected to interact respectfully and constructively.
 
 Harassment, discrimination, hostility, or intentionally harmful behavior are not acceptable within the community.
 
-A separate [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) document may define additional expectations.
+A separate [CODE_OF_CONDUCT.md](https://github.com/ByByte-diy/.github/blob/main/CODE_OF_CONDUCT.md) document may define additional expectations.
 
 ---
 
 # Trademark Notice
 
-Use of the ByByte.DIY™ name and logos must comply with the [TRADEMARK.md](TRADEMARK.md) policy.
+Use of the ByByte.DIY™ name and logos must comply with the [TRADEMARK.md](https://github.com/ByByte-diy/.github/blob/main/TRADEMARK.md) policy.
 
 Open-source contributions do not grant rights to represent unofficial projects as official ByByte.DIY products or services.
 

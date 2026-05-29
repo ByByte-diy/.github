@@ -18,7 +18,7 @@ This document is the **canonical licensing reference** for the ByByte-diy organi
 
 1. **Per-repository `LICENSE`** — Each codebase should ship a `LICENSE` (or `LICENSE`) file in its root that matches the primary content of that repo.
 2. **Mixed repositories** — If a repo contains more than one type of material (for example firmware plus PCB files), label each part with the correct license in file headers or a `LICENSE` / `LICENSE.hardware` / `LICENSE.docs` split where needed.
-3. **Contributions** — By submitting a pull request or otherwise contributing, you agree that your contribution will be licensed under the license that governs the target files in that repository, as described in this policy and in [CONTRIBUTING.md](CONTRIBUTING.md).
+3. **Contributions** — By submitting a pull request or otherwise contributing, you agree that your contribution will be licensed under the license that governs the target files in that repository, as described in this policy and in [CONTRIBUTING.md](https://github.com/ByByte-diy/.github/blob/main/CONTRIBUTING.md).
 4. **Third-party material** — Do not contribute code, designs, or docs you do not have the right to license. Respect upstream licenses and attribution requirements.
 
 ---
@@ -29,11 +29,11 @@ Open-source and open-hardware licenses **do not** grant permission to use ByByte
 
 Trademark and brand rules are defined separately in:
 
-- [TRADEMARK.md](TRADEMARK.md)
-- [BRAND_GUIDELINES.md](BRAND_GUIDELINES.md)
+- [TRADEMARK.md](https://github.com/ByByte-diy/.github/blob/main/TRADEMARK.md)
+- [BRAND_GUIDELINES.md](https://github.com/ByByte-diy/.github/blob/main/BRAND_GUIDELINES.md)
 
 ---
 
 ## Questions
 
-For licensing questions on a specific repository, check that repository’s `LICENSE` file and maintainers. For organization-wide policy, refer to this file and [CONTRIBUTING.md](CONTRIBUTING.md).
+For licensing questions on a specific repository, check that repository’s `LICENSE` file and maintainers. For organization-wide policy, refer to this file and [CONTRIBUTING.md](https://github.com/ByByte-diy/.github/blob/main/CONTRIBUTING.md).
